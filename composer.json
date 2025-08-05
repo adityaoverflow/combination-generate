@@ -1,7 +1,6 @@
 {
     "name": "ws-packages/combination-generate",
     "description": "Generate combinations of items in multiple arrays",
-    "version": "1.5.24",
     "type": "library",
     "license": "MIT",
     "keywords": ["php", "laravel", "combinations", "arrays", "variants"],
@@ -21,7 +20,7 @@
             "email": "admin@google.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "php": "^7.3|^8.0",
