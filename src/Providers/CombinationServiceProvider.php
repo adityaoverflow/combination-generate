@@ -5,6 +5,7 @@ namespace WsPackages\CombinationGenerate\Providers;
 use WsPackages\CombinationGenerate\Services\CombinationService;
 use Illuminate\Support\ServiceProvider;
 
+
 /**
  * Service provider for the Combination Generate package
  */
